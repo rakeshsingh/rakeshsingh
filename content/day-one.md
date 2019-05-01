@@ -7,11 +7,9 @@ Slug: day-one
 Authors: Rakesh Singh
 Summary: Day One Of Personal Finance
 
+## Day One - Of Personal finance management
 [Disclaimer: This blog is inspired by many different finance blogs and portal. Also please consider all the suggestions on this blog as merely suggestions. You should not make any investment decisions without understanding all the details completely]
 
-
-
-## Day One - Of Personal finance management
 ### Invest
 1. Understand your obligations, and create Goals
 2. Pay yourself first

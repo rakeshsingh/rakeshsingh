@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'rakesh'
+
+#THEME = 'elegant'
+AUTHOR = 'Rakesh Singh'
 SITENAME = "Tan Man Dhan"
 SITEURL = 'https://tan-man-dhan.com/' 
 SITESUBTITLE = 'a healthy relationship with your finances'
@@ -29,16 +31,16 @@ DISPLAY_CATEGORIES_ON_MENU = True
 ARTICLE_EXCLUDES = ['secrets']
 
 # Blogroll
-LINKS = (('About', '/about.html'),
-         ('Contact', '/journal.html'),
+LINKS = (
+         ('About', '/about.html'),
          )
 
 # Blogroll
-OTHERS = (('Link1', 'http://getpelican.com/'),
-         ('Link2', '#'),
+OTHERS = (
+         ('Link1', 'http://getpelican.com/'),
          )
 # Social widget
-SOCIAL = (('LinkedIn', '#'),
+SOCIAL = (
           ('Twitter', '#'),
           )
 
